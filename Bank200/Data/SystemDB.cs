@@ -1,8 +1,7 @@
 ﻿namespace Bank200.Data
 {
     public class SystemDB
-    {
-        //
+    {      
         public List<string> currentAccount;
         private int _balance;
         private int _overdraft;
